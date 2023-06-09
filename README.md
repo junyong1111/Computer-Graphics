@@ -14,3 +14,7 @@
 
 ### HW5
 본 과제에서는 Open Asset Import Library (Assimp)를 사용하여 여러 개의 모델을 불러와 여러 시점의 카메라로 렌더하는 프로그램을 작성한다.
+
+### HW6
+본 과제에서는 Phong reflection model을 이용해 per-pixel 단위로 물체를 렌더링하는 프로그램을 작성한다. 프로그램 실행 중 각 물체의 쉐이딩 모드는 smooth shading이나 flat shading 중 하나로 선택할 수 있도록 한다. 
+
